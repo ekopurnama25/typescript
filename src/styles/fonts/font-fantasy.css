@@ -1,0 +1,52 @@
+.fantasy-text {
+  font-family: fantasy;
+  font-size: 2rem; /* Ukuran font */
+  color: #4a90e2; /* Warna teks */
+  text-align: center; /* Rata tengah */
+  text-shadow: 2px 2px 0 #ffffff,
+    /* Bayangan putih tipis di kanan bawah */ -2px -2px 0 #ffffff,
+    /* Bayangan putih tipis di kiri atas */ 2px -2px 0 #ffffff,
+    /* Bayangan putih tipis di kanan atas */ -2px 2px 0 #ffffff; /* Bayangan putih tipis di kiri bawah */
+}
+
+.fantasy-text-menus {
+  font-family: "Comic Sans MS", "Comic Sans", cursive; /* Menggunakan Comic Sans MS */
+  font-size: 1rem; /* Ukuran font */
+  color: #4a90e2; /* Warna teks */
+  text-align: center; /* Rata tengah */
+}
+
+.fantasy-text-btn {
+  font-family: "Comic Sans MS", "Comic Sans", cursive; /* Menggunakan Comic Sans MS */
+  font-size: 1rem; /* Ukuran font */
+  color: #ffffff; /* Warna teks */
+  text-align: center; /* Rata tengah */
+}
+
+.fantasy-text-one {
+  font-family: fantasy;
+  font-size: 2rem; /* Ukuran font */
+  color: #1e40af; /* Warna teks */
+  text-align: center; /* Rata tengah */
+  text-shadow: 2px 2px 0 #ffffff,
+    /* Bayangan putih tipis di kanan bawah */ -2px -2px 0 #ffffff,
+    /* Bayangan putih tipis di kiri atas */ 2px -2px 0 #ffffff,
+    /* Bayangan putih tipis di kanan atas */ -2px 2px 0 #ffffff; /* Bayangan putih tipis di kiri bawah */
+}
+
+.fantasy-text-two {
+  font-family: fantasy;
+  font-size: 2rem; /* Ukuran font */
+  color: #1e40af; /* Warna teks */
+  text-align: center; /* Rata tengah */
+  text-shadow: 2px 2px 0 #fca5a5,
+    /* Bayangan putih tipis di kanan bawah */ -2px -2px 0 #fca5a5,
+    /* Bayangan putih tipis di kiri atas */ 2px -2px 0 #fca5a5,
+    /* Bayangan putih tipis di kanan atas */ -2px 2px 0 #fca5a5; /* Bayangan putih tipis di kiri bawah */
+}
+
+.fantasy-text-sosial {
+  font-family: "Comic Sans MS", "Comic Sans", cursive; /* Menggunakan Comic Sans MS */
+  font-size: 1rem; /* Ukuran font */
+  color: #ffffff; /* Warna teks */
+}
