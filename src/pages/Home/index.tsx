@@ -68,7 +68,7 @@ const Home: React.FC = () => {
         </div>
       </div>
       <div className="flex items-center justify-center bg-blue-200 ">
-        <section className="flex justify-around items-center mx-auto p-6 max-w-5xl min-[800px] border-1">
+        <section className="flex justify-around items-center m-4 mx-auto p-6 max-w-5xl min-[800px] border-1">
           <div className="flex flex-col w-full rounded-lg ">
             <div className="flex flex-col m-2">
               <div className="bg-[#1e3a8a] m-4 h-16 w-96 rounded-lg fantasy-text-sosial">
