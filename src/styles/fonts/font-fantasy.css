@@ -39,10 +39,10 @@
   font-size: 2rem; /* Ukuran font */
   color: #1e40af; /* Warna teks */
   text-align: center; /* Rata tengah */
-  text-shadow: 2px 2px 0 #fca5a5,
-    /* Bayangan putih tipis di kanan bawah */ -2px -2px 0 #fca5a5,
-    /* Bayangan putih tipis di kiri atas */ 2px -2px 0 #fca5a5,
-    /* Bayangan putih tipis di kanan atas */ -2px 2px 0 #fca5a5; /* Bayangan putih tipis di kiri bawah */
+  text-shadow: 2px 2px 0 #ffffff,
+    /* Bayangan putih tipis di kanan bawah */ -2px -2px 0 #ffffff,
+    /* Bayangan putih tipis di kiri atas */ 2px -2px 0 #ffffff,
+    /* Bayangan putih tipis di kanan atas */ -2px 2px 0 #ffffff; /* Bayangan putih tipis di kiri bawah */
 }
 
 .fantasy-text-sosial {

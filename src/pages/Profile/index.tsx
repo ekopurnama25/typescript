@@ -19,9 +19,6 @@ const Profile: React.FC = () => {
               <h1 className="text-3xl max-[780px]:flex max-[780px]:justify-center max-[780px]:text-[32px] p-1 fantasy-text-one text-start">
                 GUNDAM ON BASE{" "}
               </h1>
-              <h1 className="text-3xl max-[780px]:flex max-[780px]:justify-center max-[780px]:text-[32px] p-1 fantasy-text-one text-start">
-                CA : 0x32d3123o31200230
-              </h1>
               <img
                 className="w-[780px] h-[400px] mx-auto max-[980px]:w-[220px] min-[780px]:hidden max-[780px]:p-1 max-[780px]:h-[150px] max-[780px]:flex max-[780px]:justify-center"
                 src={HEAD_GUNDAM}
