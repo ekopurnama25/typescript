@@ -74,7 +74,7 @@ const Navbar: React.FC = () => {
           >
             {/* Add mobile menu links here */}
             <Link
-              to="/home"
+              to="/"
               className="fantasy-text-menus font-bold block text-[#2e1065] hover:text-[#5b21b6]"
             >
               Home
