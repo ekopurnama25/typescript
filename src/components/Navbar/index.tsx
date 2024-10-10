@@ -15,7 +15,7 @@ const Navbar: React.FC = () => {
       <nav className="flex sticky top-0 py-1 mx-auto justify-around items-center bg-blue-200">
         <div className="flex flex-col justify-between items-center max-w-5xl w-full sm:flex sm:flex-row sm:px-12 sm:justify-between">
           <div className="flex justify-between w-full">
-            <div className="p-1 fantasy-text">
+            <div className="p-1 fantasy-text max-[780px]:m-4">
               <h1 className="w-[65x] h-[60px]">GUNDAM</h1>
             </div>
             <div className="flex-col gap-y-1 min-[805px]:hidden block max-[800px]:m-5">
@@ -75,13 +75,13 @@ const Navbar: React.FC = () => {
             {/* Add mobile menu links here */}
             <Link
               to="/home"
-              className="block text-[#2e1065] hover:text-[#5b21b6]"
+              className="fantasy-text-menus font-bold block text-[#2e1065] hover:text-[#5b21b6]"
             >
               Home
             </Link>
             <Link
               to="/profile"
-              className="block text-[#2e1065] hover:text-[#5b21b6]"
+              className="fantasy-text-menus font-bold block text-[#2e1065] hover:text-[#5b21b6]"
             >
               Profile
             </Link>
