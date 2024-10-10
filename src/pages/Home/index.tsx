@@ -67,9 +67,9 @@ const Home: React.FC = () => {
           </div>
         </div>
       </div>
-      <div className="flex items-center justify-center bg-blue-200 ">
-        <section className="flex justify-around items-center m-4 mx-auto p-6 max-w-5xl min-[800px] border-1">
-          <div className="flex flex-col w-full rounded-lg ">
+      <div className="flex items-center justify-center bg-blue-200">
+        <div className="flex flex-col">
+          <div className="flex justify-around m-4 items-center  mx-auto max-w-5xl min-[800px]">
             <div className="flex flex-col m-2">
               <div className="bg-[#1e3a8a] m-4 h-16 w-96 rounded-lg fantasy-text-sosial">
                 <div className="flex flex-row justify-center p-5">
@@ -114,7 +114,7 @@ const Home: React.FC = () => {
               </div>
             </div>
           </div>
-        </section>
+        </div>
       </div>
     </Layout>
   );
