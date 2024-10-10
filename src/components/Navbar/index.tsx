@@ -91,7 +91,7 @@ const Navbar: React.FC = () => {
             <ul className="flex flex-row p-1 gap-x-8">
               <Link
                 className="fantasy-text-menus font-bold text-[#2e1065] hover:text-[#5b21b6] hover:duration-300 cursor-pointer"
-                to="/home"
+                to="/"
               >
                 Home
               </Link>

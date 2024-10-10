@@ -71,7 +71,7 @@ const Home: React.FC = () => {
         <div className="flex flex-col">
           <div className="flex justify-around m-4 items-center  mx-auto max-w-5xl min-[800px]">
             <div className="flex flex-col m-2">
-              <div className="bg-[#1e3a8a] m-4 h-16 w-96 rounded-lg fantasy-text-sosial">
+              <div className="bg-[#1e3a8a] m-4 h-16 rounded-lg fantasy-text-sosial">
                 <div className="flex flex-row justify-center p-5">
                   <div className="pr-2">
                     <svg
